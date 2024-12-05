@@ -46,7 +46,8 @@ This value is later used in subsequent calculations.
 -![image](https://github.com/user-attachments/assets/911714fc-9677-45b7-876a-666120f85737)
 
 -ADC fucntionality testing
--![ezgif-2-5bf1dc37b7](https://github.com/user-attachments/assets/dc065c4a-b627-4636-95c6-3c394c826116)
+
+  ![ezgif-2-5bf1dc37b7](https://github.com/user-attachments/assets/dc065c4a-b627-4636-95c6-3c394c826116)
 
 ## Results
 We were able to succesfully compile and upload code to the Atmega 328p microcontroller, but correct functionality and desired precision would need further parameter tweaking. 
